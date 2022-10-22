@@ -1,2 +1,2 @@
 # adminBarGone
-This Plugin (Admin Bar Gone) lets you disable the Black Bar/Admin Bar up top from the Front-End of your WordPress Website.
+This Plugin (Admin Bar Gone) lets you disable the Black Bar/Admin Bar up top from the Front-End of your WordPress Website, whenever admin logs into the admin dashboard afer that if you visit your website you'll see the Black Bar/Admin Bar up top which is not that useable & the disadvantage of having it enable is you could have issues during the development specially the hearder of your website so I've create this Plugin which comes handy for me, fell free to use it for yourself.
