@@ -8,4 +8,4 @@ This <b>Plugin</b> lets you disable the <b>Black Bar/Admin Bar</b> up top from t
     <li>Activate the Plugin.</li>
   </ul>
   <p>Do give this repository a star thank you for downloading & using it, more WordPress related content coming soon i-e more Plugins & Themes (Classic & FSE/Block).</p>
-  <h3>File Size = 787 bytes</h3>
+  <h3>File Size = 792 bytes</h3>
